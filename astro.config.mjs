@@ -54,6 +54,6 @@ export default defineConfig({
 			},
 		},
 	},
-	site: 'https://tank.alexsab.ru',
+	site: 'https://tank-penza.ru',
 	base: "/"
 });

@@ -17,7 +17,7 @@ const children = Object.keys(groupModelsByBrand).reduce((acc, key) => {
 	return acc;
 }, {});
 export const LINKS_MENU = [
-	{url: 'cars/', name: 'Авто в наличии'},
+	// {url: 'cars/', name: 'Авто в наличии'},
 	// {url: 'catalog/', name: 'Каталог'},
 	// {url: 'used_cars/', name: 'Авто с пробегом'},
 	{ 
@@ -27,7 +27,7 @@ export const LINKS_MENU = [
 	},
 	// {url: 'trade-in/', name: 'Оценка автомобиля'},
 	{url: 'special-offers/', name: 'Спецпредложения'},
-	{url: 'news/', name: 'Новости'},
+	// {url: 'news/', name: 'Новости'},
 	{url: 'test-drive/', name: 'Запись на тест-драйв'},
 	{url: 'service-request/', name: 'Запись на сервис'},
 	{url: '#services', name: 'Услуги'},

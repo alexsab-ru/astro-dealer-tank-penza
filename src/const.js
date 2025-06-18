@@ -7,7 +7,6 @@ export const TIMER = { title: 'До конца акции осталось',subt
 export const MARQUEE = { title: `Тотальная распродажа до ${LAST_DAY}.${MONTH}.${YEAR}`, count: 8, speed: 20, show: false };
 // Ссылка яндекс-виджета
 export const LINK_WIDGET = 'https://yandex.ru/map-widget/v1/-/';
-
 // Ссылки под хедером
 import { groupArrayByKey } from '@/js/utils/groupArrayByKey';
 import modelsData from '@/data/models.json';
@@ -38,7 +37,7 @@ export const LINKS_MENU = [
 // Коллекции
 export const COLLECTIONS = [
 	{name: 'special-offers', title: 'Спецпредложения'},
-	{name: 'news', title: 'Новости'},
+	// {name: 'news', title: 'Новости'},
 ];
 
 // Текст согласия в формах

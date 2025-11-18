@@ -7,6 +7,12 @@
   },
   {
     "brand": "Tank",
+    "model": "400",
+    "price": 5749000,
+    "benefit": 350000
+  },
+  {
+    "brand": "Tank",
     "model": "500",
     "price": 6199000,
     "benefit": 700000

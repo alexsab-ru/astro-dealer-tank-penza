@@ -69,6 +69,10 @@ export default defineConfig({
 		icon(),
 		react(),
 	],
+	redirects: {
+		"/magazine/1/":
+			"/?utm_source=magazine&utm_medium=qr&utm_campaign=tank_open_day&utm_content=magazine_qr_openday_v1&utm_term=2026_01",
+	},
 	vite: {
 		plugins: [
 			yaml(),

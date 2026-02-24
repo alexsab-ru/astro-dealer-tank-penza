@@ -8,19 +8,19 @@
   {
     "brand": "Tank",
     "model": "400",
-    "price": 5949000,
-    "benefit": 350000
+    "price": 5849000,
+    "benefit": 450000
   },
   {
     "brand": "Tank",
     "model": "500",
-    "price": 7299000,
-    "benefit": 700000
+    "price": 7199000,
+    "benefit": 800000
   },
   {
     "brand": "Tank",
     "model": "700",
-    "price": 9399000,
-    "benefit": 600000
+    "price": 9199000,
+    "benefit": 800000
   }
 ]

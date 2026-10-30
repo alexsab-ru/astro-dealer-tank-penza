@@ -575,6 +575,11 @@
         <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/EEYFF7A57TA001444/2/full.webp?v=4033660a1b97</image>
         <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/EEYFF7A57TA001444/3/full.webp?v=ecabb33bb3d3</image>
         <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/EEYFF7A57TA001444/4/full.webp?v=a1e40c1cca51</image>
+        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/EEYFF7A57TA001444/5/full.webp?v=89a8ca6492a4</image>
+        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/EEYFF7A57TA001444/6/full.webp?v=75be3d0233b9</image>
+        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/EEYFF7A57TA001444/7/full.webp?v=3de1b4171b02</image>
+        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/EEYFF7A57TA001444/8/full.webp?v=bcd1f043bf30</image>
+        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/EEYFF7A57TA001444/9/full.webp?v=d093a5dea13c</image>
       </images>
     </car>
     <car>
@@ -599,6 +604,11 @@
         <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/EEYFF7A57TA001445/2/full.webp?v=4033660a1b97</image>
         <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/EEYFF7A57TA001445/3/full.webp?v=ecabb33bb3d3</image>
         <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/EEYFF7A57TA001445/4/full.webp?v=a1e40c1cca51</image>
+        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/EEYFF7A57TA001445/5/full.webp?v=89a8ca6492a4</image>
+        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/EEYFF7A57TA001445/6/full.webp?v=75be3d0233b9</image>
+        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/EEYFF7A57TA001445/7/full.webp?v=3de1b4171b02</image>
+        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/EEYFF7A57TA001445/8/full.webp?v=bcd1f043bf30</image>
+        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/EEYFF7A57TA001445/9/full.webp?v=d093a5dea13c</image>
       </images>
     </car>
     <car>
@@ -623,6 +633,11 @@
         <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/EEYFF7A57TA001446/2/full.webp?v=4033660a1b97</image>
         <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/EEYFF7A57TA001446/3/full.webp?v=ecabb33bb3d3</image>
         <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/EEYFF7A57TA001446/4/full.webp?v=a1e40c1cca51</image>
+        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/EEYFF7A57TA001446/5/full.webp?v=89a8ca6492a4</image>
+        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/EEYFF7A57TA001446/6/full.webp?v=75be3d0233b9</image>
+        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/EEYFF7A57TA001446/7/full.webp?v=3de1b4171b02</image>
+        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/EEYFF7A57TA001446/8/full.webp?v=bcd1f043bf30</image>
+        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/EEYFF7A57TA001446/9/full.webp?v=d093a5dea13c</image>
       </images>
     </car>
     <car>
@@ -1673,6 +1688,11 @@
         <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFF7A59TJ698951/2/full.webp?v=65e3e6ab3425</image>
         <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFF7A59TJ698951/3/full.webp?v=bfaec16a8250</image>
         <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFF7A59TJ698951/4/full.webp?v=47d318d44ec6</image>
+        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFF7A59TJ698951/5/full.webp?v=34dd34e99271</image>
+        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFF7A59TJ698951/6/full.webp?v=4382dfb02f5e</image>
+        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFF7A59TJ698951/7/full.webp?v=ebdf181bbb34</image>
+        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFF7A59TJ698951/8/full.webp?v=c9c0be300f72</image>
+        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFF7A59TJ698951/9/full.webp?v=521e712d878a</image>
       </images>
     </car>
     <car>
@@ -1697,6 +1717,11 @@
         <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFF7A59TJ698952/2/full.webp?v=65e3e6ab3425</image>
         <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFF7A59TJ698952/3/full.webp?v=bfaec16a8250</image>
         <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFF7A59TJ698952/4/full.webp?v=47d318d44ec6</image>
+        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFF7A59TJ698952/5/full.webp?v=34dd34e99271</image>
+        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFF7A59TJ698952/6/full.webp?v=4382dfb02f5e</image>
+        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFF7A59TJ698952/7/full.webp?v=ebdf181bbb34</image>
+        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFF7A59TJ698952/8/full.webp?v=c9c0be300f72</image>
+        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFF7A59TJ698952/9/full.webp?v=521e712d878a</image>
       </images>
     </car>
     <car>
@@ -1721,6 +1746,11 @@
         <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFF7A59TJ698953/2/full.webp?v=65e3e6ab3425</image>
         <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFF7A59TJ698953/3/full.webp?v=bfaec16a8250</image>
         <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFF7A59TJ698953/4/full.webp?v=47d318d44ec6</image>
+        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFF7A59TJ698953/5/full.webp?v=34dd34e99271</image>
+        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFF7A59TJ698953/6/full.webp?v=4382dfb02f5e</image>
+        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFF7A59TJ698953/7/full.webp?v=ebdf181bbb34</image>
+        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFF7A59TJ698953/8/full.webp?v=c9c0be300f72</image>
+        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFF7A59TJ698953/9/full.webp?v=521e712d878a</image>
       </images>
     </car>
     <car>
@@ -2432,246 +2462,6 @@
         <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFF9A67TM615927/17/full.webp?v=e9cda9605dea</image>
         <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFF9A67TM615927/18/full.webp?v=bda1df783684</image>
         <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFF9A67TM615927/19/full.webp?v=1fd339e70169</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>LGWFGNA62TM611898</unique_id>
-      <url>https://tank-penza.ru/cars/tank-500-20hyb-4wd-at-299-hp-city-premium-25my-black-2026/</url>
-      <mark_id>Tank</mark_id>
-      <folder_id>500</folder_id>
-      <year>2026</year>
-      <vin>LGWFGNA62TM611898</vin>
-      <price>7199000</price>
-      <sale_price>6499000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>700000</max_benefit>
-      <color>черный</color>
-      <availability>В наличии</availability>
-      <body_type>Внедорожник</body_type>
-      <description>Автомобиль Tank 500, Сити Премиум 25MY, 2.0hyb 4WD AT (299 л.с.), 2026 г., черный</description>
-      <images>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611898/0/full.webp?v=5ef742e26646</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611898/1/full.webp?v=60e9bd020bb4</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611898/2/full.webp?v=9b37a7a2b3b2</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611898/3/full.webp?v=00705fb09081</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611898/4/full.webp?v=3701cc591763</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611898/5/full.webp?v=f2c5545b742e</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611898/6/full.webp?v=475cee1d57e5</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611898/7/full.webp?v=2ed4ff2cfb0d</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611898/8/full.webp?v=21db357aca1c</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611898/9/full.webp?v=5e80d5774d55</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611898/10/full.webp?v=63b5d709787a</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611898/11/full.webp?v=b728489cf3f9</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611898/12/full.webp?v=d085a032ed08</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611898/13/full.webp?v=869435d73b09</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611898/14/full.webp?v=b141bd7565b3</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611898/15/full.webp?v=11655179d8fd</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611898/16/full.webp?v=b9b49092837f</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611898/17/full.webp?v=9f655cb11be7</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611898/18/full.webp?v=7824515117f0</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611898/19/full.webp?v=2d90aed04498</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611898/20/full.webp?v=24465b1ba479</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>LGWFGNA62TM611899</unique_id>
-      <url>https://tank-penza.ru/cars/tank-500-20hyb-4wd-at-299-hp-city-premium-25my-black-2026/</url>
-      <mark_id>Tank</mark_id>
-      <folder_id>500</folder_id>
-      <year>2026</year>
-      <vin>LGWFGNA62TM611899</vin>
-      <price>7199000</price>
-      <sale_price>6499000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>700000</max_benefit>
-      <color>черный</color>
-      <availability>В наличии</availability>
-      <body_type>Внедорожник</body_type>
-      <description>Автомобиль Tank 500, Сити Премиум 25MY, 2.0hyb 4WD AT (299 л.с.), 2026 г., черный</description>
-      <images>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611899/0/full.webp?v=5ef742e26646</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611899/1/full.webp?v=60e9bd020bb4</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611899/2/full.webp?v=9b37a7a2b3b2</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611899/3/full.webp?v=00705fb09081</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611899/4/full.webp?v=3701cc591763</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611899/5/full.webp?v=f2c5545b742e</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611899/6/full.webp?v=475cee1d57e5</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611899/7/full.webp?v=2ed4ff2cfb0d</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611899/8/full.webp?v=21db357aca1c</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611899/9/full.webp?v=5e80d5774d55</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611899/10/full.webp?v=63b5d709787a</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611899/11/full.webp?v=b728489cf3f9</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611899/12/full.webp?v=d085a032ed08</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611899/13/full.webp?v=869435d73b09</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611899/14/full.webp?v=b141bd7565b3</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611899/15/full.webp?v=11655179d8fd</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611899/16/full.webp?v=b9b49092837f</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611899/17/full.webp?v=9f655cb11be7</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611899/18/full.webp?v=7824515117f0</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611899/19/full.webp?v=2d90aed04498</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611899/20/full.webp?v=24465b1ba479</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>LGWFGNA62TM611900</unique_id>
-      <url>https://tank-penza.ru/cars/tank-500-20hyb-4wd-at-299-hp-city-premium-25my-black-2026/</url>
-      <mark_id>Tank</mark_id>
-      <folder_id>500</folder_id>
-      <year>2026</year>
-      <vin>LGWFGNA62TM611900</vin>
-      <price>7199000</price>
-      <sale_price>6499000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>700000</max_benefit>
-      <color>черный</color>
-      <availability>В наличии</availability>
-      <body_type>Внедорожник</body_type>
-      <description>Автомобиль Tank 500, Сити Премиум 25MY, 2.0hyb 4WD AT (299 л.с.), 2026 г., черный</description>
-      <images>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/0/full.webp?v=5ef742e26646</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/1/full.webp?v=60e9bd020bb4</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/2/full.webp?v=9b37a7a2b3b2</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/3/full.webp?v=00705fb09081</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/4/full.webp?v=3701cc591763</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/5/full.webp?v=f2c5545b742e</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/6/full.webp?v=475cee1d57e5</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/7/full.webp?v=2ed4ff2cfb0d</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/8/full.webp?v=21db357aca1c</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/9/full.webp?v=5e80d5774d55</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/10/full.webp?v=63b5d709787a</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/11/full.webp?v=b728489cf3f9</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/12/full.webp?v=d085a032ed08</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/13/full.webp?v=869435d73b09</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/14/full.webp?v=b141bd7565b3</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/15/full.webp?v=11655179d8fd</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/16/full.webp?v=b9b49092837f</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/17/full.webp?v=9f655cb11be7</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/18/full.webp?v=7824515117f0</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/19/full.webp?v=2d90aed04498</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/20/full.webp?v=24465b1ba479</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>LGWFGNA64TM618061</unique_id>
-      <url>https://tank-penza.ru/cars/tank-500-20hyb-4wd-at-299-hp-city-premium-25my-black-2026/</url>
-      <mark_id>Tank</mark_id>
-      <folder_id>500</folder_id>
-      <year>2026</year>
-      <vin>LGWFGNA64TM618061</vin>
-      <price>7199000</price>
-      <sale_price>6499000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>700000</max_benefit>
-      <color>черный</color>
-      <availability>В наличии</availability>
-      <body_type>Внедорожник</body_type>
-      <description>Автомобиль Tank 500, Сити Премиум 25MY, 2.0hyb 4WD AT (299 л.с.), 2026 г., черный</description>
-      <images>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/0/full.webp?v=5ef742e26646</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/1/full.webp?v=60e9bd020bb4</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/2/full.webp?v=9b37a7a2b3b2</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/3/full.webp?v=00705fb09081</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/4/full.webp?v=3701cc591763</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/5/full.webp?v=f2c5545b742e</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/6/full.webp?v=475cee1d57e5</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/7/full.webp?v=2ed4ff2cfb0d</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/8/full.webp?v=21db357aca1c</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/9/full.webp?v=5e80d5774d55</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/10/full.webp?v=63b5d709787a</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/11/full.webp?v=b728489cf3f9</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/12/full.webp?v=d085a032ed08</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/13/full.webp?v=869435d73b09</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/14/full.webp?v=b141bd7565b3</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/15/full.webp?v=11655179d8fd</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/16/full.webp?v=b9b49092837f</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/17/full.webp?v=9f655cb11be7</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/18/full.webp?v=7824515117f0</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/19/full.webp?v=2d90aed04498</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/20/full.webp?v=24465b1ba479</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>LGWFGNA64TM618062</unique_id>
-      <url>https://tank-penza.ru/cars/tank-500-20hyb-4wd-at-299-hp-city-premium-25my-black-2026/</url>
-      <mark_id>Tank</mark_id>
-      <folder_id>500</folder_id>
-      <year>2026</year>
-      <vin>LGWFGNA64TM618062</vin>
-      <price>7199000</price>
-      <sale_price>6499000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>700000</max_benefit>
-      <color>черный</color>
-      <availability>В наличии</availability>
-      <body_type>Внедорожник</body_type>
-      <description>Автомобиль Tank 500, Сити Премиум 25MY, 2.0hyb 4WD AT (299 л.с.), 2026 г., черный</description>
-      <images>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/0/full.webp?v=5ef742e26646</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/1/full.webp?v=60e9bd020bb4</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/2/full.webp?v=9b37a7a2b3b2</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/3/full.webp?v=00705fb09081</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/4/full.webp?v=3701cc591763</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/5/full.webp?v=f2c5545b742e</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/6/full.webp?v=475cee1d57e5</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/7/full.webp?v=2ed4ff2cfb0d</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/8/full.webp?v=21db357aca1c</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/9/full.webp?v=5e80d5774d55</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/10/full.webp?v=63b5d709787a</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/11/full.webp?v=b728489cf3f9</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/12/full.webp?v=d085a032ed08</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/13/full.webp?v=869435d73b09</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/14/full.webp?v=b141bd7565b3</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/15/full.webp?v=11655179d8fd</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/16/full.webp?v=b9b49092837f</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/17/full.webp?v=9f655cb11be7</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/18/full.webp?v=7824515117f0</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/19/full.webp?v=2d90aed04498</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/20/full.webp?v=24465b1ba479</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>LGWFGNA64TM618063</unique_id>
-      <url>https://tank-penza.ru/cars/tank-500-20hyb-4wd-at-299-hp-city-premium-25my-black-2026/</url>
-      <mark_id>Tank</mark_id>
-      <folder_id>500</folder_id>
-      <year>2026</year>
-      <vin>LGWFGNA64TM618063</vin>
-      <price>7199000</price>
-      <sale_price>6499000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>700000</max_benefit>
-      <color>черный</color>
-      <availability>В наличии</availability>
-      <body_type>Внедорожник</body_type>
-      <description>Автомобиль Tank 500, Сити Премиум 25MY, 2.0hyb 4WD AT (299 л.с.), 2026 г., черный</description>
-      <images>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/0/full.webp?v=5ef742e26646</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/1/full.webp?v=60e9bd020bb4</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/2/full.webp?v=9b37a7a2b3b2</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/3/full.webp?v=00705fb09081</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/4/full.webp?v=3701cc591763</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/5/full.webp?v=f2c5545b742e</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/6/full.webp?v=475cee1d57e5</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/7/full.webp?v=2ed4ff2cfb0d</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/8/full.webp?v=21db357aca1c</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/9/full.webp?v=5e80d5774d55</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/10/full.webp?v=63b5d709787a</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/11/full.webp?v=b728489cf3f9</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/12/full.webp?v=d085a032ed08</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/13/full.webp?v=869435d73b09</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/14/full.webp?v=b141bd7565b3</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/15/full.webp?v=11655179d8fd</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/16/full.webp?v=b9b49092837f</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/17/full.webp?v=9f655cb11be7</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/18/full.webp?v=7824515117f0</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/19/full.webp?v=2d90aed04498</image>
-        <image>https://cdn.alexsab.ru/cars/tank-penza.ru/new/LGWFGNA62TM611900/20/full.webp?v=24465b1ba479</image>
       </images>
     </car>
     <car>

@@ -26,6 +26,30 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
+    <id>EEYFF7A53TA001991</id>
+    <link>https://tank-penza.ru/cars/tank-300-20-4wd-at-218-hp-premium-black-2026/</link>
+    <brand>Tank</brand>
+    <model>300</model>
+    <year>2026</year>
+    <title>Tank 300 Премиум 2026</title>
+    <image_link>https://img.upspace.ru/cars/tank-penza.ru/new/EEYFF7A53TA001991/0/full.webp?v=c1b867ce9e67</image_link>
+    <price>4899000 RUB</price>
+    <sale_price>4449000 RUB</sale_price>
+    <min_price>4449000 RUB</min_price>
+    <max_price>4899000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Tank 300, Премиум, 2.0 4WD AT (218 л.с.), 2026 г.</description>
+    <exterior_color>Черный</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>EEYFF7A53TA001991</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
     <id>EEYFF7A53TA002204</id>
     <link>https://tank-penza.ru/cars/tank-300-20-4wd-at-220-hp-city-adventure-25my-gray-2026/</link>
     <brand>Tank</brand>
@@ -190,30 +214,6 @@
     </mileage>
     <body_style>suv</body_style>
     <vin>EEYFF7A59TA000702</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
-    <id>LGWFF7A53TJ686293</id>
-    <link>https://tank-penza.ru/cars/tank-300-20-4wd-at-218-hp-city-drive-gray-2026/</link>
-    <brand>Tank</brand>
-    <model>300</model>
-    <year>2026</year>
-    <title>Tank 300 Сити Драйв 2026</title>
-    <image_link>https://img.upspace.ru/cars/tank-penza.ru/new/LGWFF7A53TJ686293/0/full.webp?v=bd4e23169141</image_link>
-    <price>4799000 RUB</price>
-    <sale_price>4299000 RUB</sale_price>
-    <min_price>4299000 RUB</min_price>
-    <max_price>4799000 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Tank 300, Сити Драйв, 2.0 4WD AT (218 л.с.), 2026 г.</description>
-    <exterior_color>Серый</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>suv</body_style>
-    <vin>LGWFF7A53TJ686293</vin>
     <availability>в наличии</availability>
     <vehicle_type>car_truck</vehicle_type>
   </item>

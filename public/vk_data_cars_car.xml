@@ -37,6 +37,27 @@
       </images>
     </car>
     <car>
+      <unique_id>EEYFF7A53TA001991</unique_id>
+      <url>https://tank-penza.ru/cars/tank-300-20-4wd-at-218-hp-premium-black-2026/</url>
+      <mark_id>Tank</mark_id>
+      <folder_id>300</folder_id>
+      <year>2026</year>
+      <vin>EEYFF7A53TA001991</vin>
+      <price>4899000</price>
+      <sale_price>4449000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>450000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <body_type>Внедорожник</body_type>
+      <description>Автомобиль Tank 300, Премиум, 2.0 4WD AT (218 л.с.), 2026 г., черный</description>
+      <images>
+        <image>https://img.upspace.ru/cars/tank-penza.ru/new/EEYFF7A53TA001991/0/full.webp?v=c1b867ce9e67</image>
+        <image>https://img.upspace.ru/cars/tank-penza.ru/new/EEYFF7A53TA001991/1/full.webp?v=74e22691c3cf</image>
+      </images>
+    </car>
+    <car>
       <unique_id>EEYFF7A53TA002204</unique_id>
       <url>https://tank-penza.ru/cars/tank-300-20-4wd-at-220-hp-city-adventure-25my-gray-2026/</url>
       <mark_id>Tank</mark_id>
@@ -298,46 +319,6 @@
         <image>https://img.upspace.ru/cars/tank-penza.ru/new/EEYFF7A59TA000702/17/full.webp?v=614d5ec410b5</image>
         <image>https://img.upspace.ru/cars/tank-penza.ru/new/EEYFF7A59TA000702/18/full.webp?v=9e74ad261e04</image>
         <image>https://img.upspace.ru/cars/tank-penza.ru/new/EEYFF7A59TA000702/19/full.webp?v=bf7a3b45c367</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>LGWFF7A53TJ686293</unique_id>
-      <url>https://tank-penza.ru/cars/tank-300-20-4wd-at-218-hp-city-drive-gray-2026/</url>
-      <mark_id>Tank</mark_id>
-      <folder_id>300</folder_id>
-      <year>2026</year>
-      <vin>LGWFF7A53TJ686293</vin>
-      <price>4799000</price>
-      <sale_price>4299000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>500000</max_benefit>
-      <color>серый</color>
-      <availability>В наличии</availability>
-      <body_type>Внедорожник</body_type>
-      <description>Автомобиль Tank 300, Сити Драйв, 2.0 4WD AT (218 л.с.), 2026 г., серый</description>
-      <images>
-        <image>https://img.upspace.ru/cars/tank-penza.ru/new/LGWFF7A53TJ686293/0/full.webp?v=bd4e23169141</image>
-        <image>https://img.upspace.ru/cars/tank-penza.ru/new/LGWFF7A53TJ686293/1/full.webp?v=638e85cccd82</image>
-        <image>https://img.upspace.ru/cars/tank-penza.ru/new/LGWFF7A53TJ686293/2/full.webp?v=c594241d80dc</image>
-        <image>https://img.upspace.ru/cars/tank-penza.ru/new/LGWFF7A53TJ686293/3/full.webp?v=76ce7e8750e4</image>
-        <image>https://img.upspace.ru/cars/tank-penza.ru/new/LGWFF7A53TJ686293/4/full.webp?v=2bfabf55d11d</image>
-        <image>https://img.upspace.ru/cars/tank-penza.ru/new/LGWFF7A53TJ686293/5/full.webp?v=fa02e2af9d29</image>
-        <image>https://img.upspace.ru/cars/tank-penza.ru/new/LGWFF7A53TJ686293/6/full.webp?v=86300e87cc97</image>
-        <image>https://img.upspace.ru/cars/tank-penza.ru/new/LGWFF7A53TJ686293/7/full.webp?v=81ed3db0f132</image>
-        <image>https://img.upspace.ru/cars/tank-penza.ru/new/LGWFF7A53TJ686293/8/full.webp?v=44a2bf5625d9</image>
-        <image>https://img.upspace.ru/cars/tank-penza.ru/new/LGWFF7A53TJ686293/9/full.webp?v=735b6ff9b723</image>
-        <image>https://img.upspace.ru/cars/tank-penza.ru/new/LGWFF7A53TJ686293/10/full.webp?v=123a3fb38a34</image>
-        <image>https://img.upspace.ru/cars/tank-penza.ru/new/LGWFF7A53TJ686293/11/full.webp?v=0db607fe32df</image>
-        <image>https://img.upspace.ru/cars/tank-penza.ru/new/LGWFF7A53TJ686293/12/full.webp?v=73d1be6ff90f</image>
-        <image>https://img.upspace.ru/cars/tank-penza.ru/new/LGWFF7A53TJ686293/13/full.webp?v=81de68ea6439</image>
-        <image>https://img.upspace.ru/cars/tank-penza.ru/new/LGWFF7A53TJ686293/14/full.webp?v=9a0b71554a75</image>
-        <image>https://img.upspace.ru/cars/tank-penza.ru/new/LGWFF7A53TJ686293/15/full.webp?v=b846dad73916</image>
-        <image>https://img.upspace.ru/cars/tank-penza.ru/new/LGWFF7A53TJ686293/16/full.webp?v=a55a83844e6b</image>
-        <image>https://img.upspace.ru/cars/tank-penza.ru/new/LGWFF7A53TJ686293/17/full.webp?v=d93050afed90</image>
-        <image>https://img.upspace.ru/cars/tank-penza.ru/new/LGWFF7A53TJ686293/18/full.webp?v=6f45533df435</image>
-        <image>https://img.upspace.ru/cars/tank-penza.ru/new/LGWFF7A53TJ686293/19/full.webp?v=edacdb7eb3bd</image>
-        <image>https://img.upspace.ru/cars/tank-penza.ru/new/LGWFF7A53TJ686293/20/full.webp?v=af148a38e96e</image>
       </images>
     </car>
     <car>

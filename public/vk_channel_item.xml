@@ -122,30 +122,6 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
-    <id>EEYFF7A58TA001713</id>
-    <link>https://tank-penza.ru/cars/tank-300-20-4wd-at-220-hp-city-adventure-25my-black-2026/</link>
-    <brand>Tank</brand>
-    <model>300</model>
-    <year>2026</year>
-    <title>Tank 300 Сити Драйв 25MY 2026</title>
-    <image_link>https://img.upspace.ru/cars/tank-penza.ru/new/EEYFF7A58TA001713/0/full.webp?v=5d5bdec76002</image_link>
-    <price>4799000 RUB</price>
-    <sale_price>4349000 RUB</sale_price>
-    <min_price>4349000 RUB</min_price>
-    <max_price>4799000 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Tank 300, Сити Драйв 25MY, 2.0 4WD AT (220 л.с.), 2026 г.</description>
-    <exterior_color>Черный</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>suv</body_style>
-    <vin>EEYFF7A58TA001713</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
     <id>EEYFF7A58TA002960</id>
     <link>https://tank-penza.ru/cars/tank-300-20-4wd-at-218-hp-city-premium-gray-2026/</link>
     <brand>Tank</brand>
